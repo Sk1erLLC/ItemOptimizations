@@ -1,0 +1,1 @@
+<p>Item Optimizations provides a minor optimization to item searching & disables the enchantment glint on both potions and enchanted books, allowing for better performance in situations where there could be a lot of them on the ground.</p>
