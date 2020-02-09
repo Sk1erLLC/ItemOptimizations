@@ -3,8 +3,8 @@
     "modid": "item_optimization",
     "name": "Item Optimizations",
     "description": "Improve dropped item performance, remove enchantment glint from potions & books.",
-    "version": "1.1",
-    "mcversion": "1.8.9",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
     "authorList": [
